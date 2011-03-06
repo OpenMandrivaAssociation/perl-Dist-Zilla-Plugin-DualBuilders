@@ -1,5 +1,5 @@
 %define upstream_name    Dist-Zilla-Plugin-DualBuilders
-%define upstream_version 0.03
+%define upstream_version 1.001
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
