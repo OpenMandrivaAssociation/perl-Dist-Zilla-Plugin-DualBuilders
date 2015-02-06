@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	4
+Release:	5
 
 Summary:	Allows use of Module::Build and ExtUtils::MakeMaker in a dzil dist
 License:	GPL+ or Artistic
