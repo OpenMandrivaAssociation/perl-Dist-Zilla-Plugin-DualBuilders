@@ -8,7 +8,7 @@ Release:	5
 Summary:	Allows use of Module::Build and ExtUtils::MakeMaker in a dzil dist
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Dist/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
